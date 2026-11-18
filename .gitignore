@@ -1,0 +1,15 @@
+# Configuración de editores (no forma parte del entregable)
+.vscode/
+.idea/
+*.code-workspace
+
+# Binarios y archivos temporales generados por la compilación
+*.exe
+*.o
+*.obj
+*.out
+
+# Archivos propios del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
